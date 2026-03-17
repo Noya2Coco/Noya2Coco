@@ -1,6 +1,6 @@
 # Hi there, I'm Noah Rousseau! 👋
 
-**💻 Étudiant en Licence 3 MIASHS (MIAGE) | Passionné de développement & IA | Toujours en quête de nouvelles technologies !**
+**💻 Étudiant en Master MIAGE | Passionné de développement & IA | Toujours en quête de nouvelles technologies !**
 
 ---
 
@@ -8,7 +8,7 @@
 
 Passionné par le développement informatique, j'explore en permanence de nouveaux horizons technologiques. Mon parcours m'a permis de travailler sur divers projets personnels et académiques, allant de l'IA au développement full-stack, en passant par la gestion de projets et la cybersécurité.
 
-Je suis actuellement en **Licence 3 MIASHS à la MIAGE de Sophia Antipolis**, avec pour ambition de poursuivre vers un **Master IA²**. Mon objectif est de créer des solutions innovantes en combinant programmation, gestion et intelligence artificielle.
+Je suis actuellement en **Master MIAGE à la MIAGE de Sophia Antipolis**. Mon objectif est de créer des solutions innovantes en combinant programmation, gestion et intelligence artificielle.
 
 📍 **Basé à** : Antibes (06600) & La Crau (83260)  
 📧 **Contact** : noah.rousseau2412@gmail.com  
@@ -33,6 +33,7 @@ Je suis actuellement en **Licence 3 MIASHS à la MIAGE de Sophia Antipolis**, av
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 #### 📱 Mobile Development
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -45,6 +46,7 @@ Je suis actuellement en **Licence 3 MIASHS à la MIAGE de Sophia Antipolis**, av
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDb](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### 🎮 Game Dev & 3D
 
@@ -56,11 +58,13 @@ Je suis actuellement en **Licence 3 MIASHS à la MIAGE de Sophia Antipolis**, av
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 #### 🖥️ IDE & Éditeurs de code
+
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 #### 🖥️ Systèmes & Cloud
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -74,6 +78,7 @@ Je suis actuellement en **Licence 3 MIASHS à la MIAGE de Sophia Antipolis**, av
 
 ### 🚀 Projets personnels
 
+🔹 **Poli'Com** - La communication, au service des élus locaux
 🔹 **Osint Express** - Projet d'analyse OSINT  
 🔹 **HCL** - Projet autour du jeu *Hill Climb Racing 2*  
 🔹 **Mailicious** - Automatisation d'envoi d'e-mails et gestion de logs  
@@ -90,9 +95,10 @@ Je suis actuellement en **Licence 3 MIASHS à la MIAGE de Sophia Antipolis**, av
 
 ## 🎓 Formation
 
-🎓 **Licence 3 MIASHS** (2024 - 2027) - MIAGE Sophia Antipolis  
-🎓 **BTS SIO SLAM** (2022 - 2024) - Mention Assez Bien - Lycée Bonaparte, Toulon  
-🎓 **Baccalauréat Général** (2019 - 2022) - Mention Bien - Lycée Costebelle, Hyères  
+🎓 **Master MIAGE cursus MBDS** (2025 - 2027) - MIAGE, Sophia Antipolis
+🎓 **Licence 3 MIASHS** (2024 - 2025) - MIAGE, Sophia Antipolis  
+🎓 **BTS SIO option SLAM** (2022 - 2024) - Mention Assez Bien - Lycée Bonaparte, Toulon  
+🎓 **Baccalauréat filière Général** (2019 - 2022) - Mention Bien - Lycée Costebelle, Hyères  
 
 ---
 
